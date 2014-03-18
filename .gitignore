@@ -2,13 +2,10 @@
 *.pyc
 doc/
 docs/
-db/
 *.db
-*.log
 downloads/
 uploads/
 backup/
-logs/
 *.bak
 setting.py
 *.key
