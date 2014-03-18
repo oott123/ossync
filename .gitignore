@@ -2,7 +2,6 @@
 *.pyc
 doc/
 docs/
-*.db
 downloads/
 uploads/
 backup/
